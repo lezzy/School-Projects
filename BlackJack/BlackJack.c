@@ -41,7 +41,6 @@ int user_turn(int user_sum)
     scanf("%d", &answer);
     if (answer == 0)
     {
-        //
         return user_sum;
     }
     else if (answer == 1)
