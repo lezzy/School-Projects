@@ -1,2 +1,2 @@
 # SchoolProjects
-These are school projects that I've done during my undergraduate at UC Irvine. 
+These are school projects that I've done as an undergraduate at UC Irvine. 
